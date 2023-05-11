@@ -8,3 +8,16 @@
 5. Fisheries?
 6. Zooplankton in the Keys?
 7. 
+
+
+### Notes on Downscaling
+
+Need to get two products from physical model(s) (start w/Yonggang)
+1. ADT
+2. SSS
+Questions:
+1. What time periods do we need? - All of MODIS record?
+2. Need to aggregate to regular grid?
+3. Need to calculate climatologies? (ask Jay)
+
+
