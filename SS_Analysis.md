@@ -21,5 +21,6 @@ Questions:
 3. Need to aggregate to regular grid?
 4. Does OCG have climatologies already?
 5. FVCOM vs WFCOM?
+6. Does not include Biscayne Bay.
 
 
