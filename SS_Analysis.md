@@ -16,8 +16,9 @@ Need to get two products from physical model(s) (start w/Yonggang)
 1. ADT
 2. SSS
 Questions:
-1. What time periods do we need? - All of MODIS record?
-2. Need to aggregate to regular grid?
-3. Need to calculate climatologies? (ask Jay)
+1. What time periods do we need? - All of MODIS record, if possible
+2. Daily resolution
+3. Need to aggregate to regular grid?
+4. Does OCG have climatologies already?
 
 
