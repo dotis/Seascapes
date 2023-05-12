@@ -20,5 +20,6 @@ Questions:
 2. Daily resolution
 3. Need to aggregate to regular grid?
 4. Does OCG have climatologies already?
+5. FVCOM vs WFCOM?
 
 
