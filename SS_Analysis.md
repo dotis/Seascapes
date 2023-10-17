@@ -23,4 +23,16 @@ Questions:
 5. FVCOM vs WFCOM?
 6. Does not include Biscayne Bay.
 
+### Notes on SS continuity project and poster for IOCS meeting in November 2023
+Products:
+1. Chla
+2. SST4
+3. adg443
+4. nflh
+5. Rrs - 412,443,488,531,547,667,678,748 
 
+Ideas for comparisons
+1. Raw VIIRS vs. MODIS comparisons (2013 through mid-2023). Where? Use 4-km 8D global files. Check w/Joaquin.
+2. Seascape mode comparisons
+3. Rrs comarisons - are certain bands more of an issue than others?
+4. nflh from MODIS compared to FLH from OLCI. Need OLCI from Joaquin.
