@@ -1,4 +1,4 @@
-## Notes w/Maria
+### Notes on MODIS/VIIRS/OLCI paper w/Maria at IOCS meeting
 
 1. Highlight MBON regions
 2. Highlight "in the news"?
