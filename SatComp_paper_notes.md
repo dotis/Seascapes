@@ -36,10 +36,10 @@ Should we bother w/SST?
 
 ### Input products needed from Joaquin 
  - Get all from Joaquin via ftp if possible (monthly, 5-km?)
-1. Chl-a (MODA, VSNPP)
-2. adg(443) (MODA,VSNPP)
-3. NFLH (MODA,S3A/B)
-4. Seascape class and prob (MODA,VSNPP)
+1. Chl-a (MODA, VSNPP) - From NASA
+2. adg(443) (MODA,VSNPP) - From NASA
+3. NFLH (MODA,S3A/B) - From JT FTP
+4. Seascape class and prob (MODA,VSNPP) - From JT FTP
 5. Other - SS w/MODA w/only NFLH changed?
 
 Questions for Joaquin:
