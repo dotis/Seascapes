@@ -41,3 +41,10 @@ Should we bother w/SST?
 3. NFLH (MODA,S3A/B)
 4. Seascape class and prob (MODA,VSNPP)
 5. Other - SS w/MODA w/only NFLH changed?
+
+Questions for Joaquin:
+1. Time step: MO (coverage is better - can use 8D as a test case in an area of interest)
+2. L3 files from OBPG are the ones to use - yes?
+3. Updates of other files to end of 2023 - files will go on ftp?
+4. Analyses to run? - Should we look at MODA SS w/only NFLH changed?
+5. Use of JPSS? - Meaned w/SNPP? - Yes, but doesn't make a huge difference. 
