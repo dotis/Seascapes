@@ -11,6 +11,7 @@
 At each one:
 1. For OC inputs: time series, differences
 2. For SS: F-stats, time series?
+3. Questions: Need code for area plots and fstats (MTK)
 
 Other comparisons?:
 1. Ribbon plots? Dominance in a region (or area covered) - 
@@ -23,8 +24,10 @@ Papers which describe SeaWiFS and MODIS Chla, differences in sesitivity in summe
 
 F-stats mismatches are worse at 8-day (add J. Woodill) - compare monthly to 
 
-Other thoughts
-systematically remove ocean color
+Monthly data is fine, except for phenology. Move to 8-day for that.
+
+Other thoughts:
+systematically remove ocean color (MTK)
 Run the model with and w/o nflh - in many areas, nflh does not add a lot
 Look at both MODIS and VIIRS w and w/o nflh
 
