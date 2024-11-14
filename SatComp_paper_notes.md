@@ -7,11 +7,13 @@
 5. North Sea
 6. Gulf of Maine
 7. Or, just MBON plus oligotrophic (US centric)
+8. Time frame: 1/1/2017-6/30/2024 (7.5 years) - could stop at 12/31/2023 for full years
 
 At each one:
 1. For OC inputs: time series, differences
 2. For SS: F-stats, time series?
 3. Questions: Need code for area plots and fstats (MTK)
+4. For Chl and adg443 only can compare MODA, JPSS1, JPSS2, SNPP
 
 Other comparisons?:
 1. Ribbon plots? Dominance in a region (or area covered) - 
@@ -37,7 +39,7 @@ Is Joaquin using a per-pixel slope?  - Over what region?
 One plot of SST comparisons (test region) - should be the same.
 Should we bother w/SST?
 
-### Input products needed from Joaquin 
+### Input products needed from Joaqui
  - Get all from Joaquin via ftp if possible (monthly, 5-km?)
 1. Chl-a (MODA, VSNPP) - From NASA
 2. adg(443) (MODA,VSNPP) - From NASA
@@ -45,9 +47,4 @@ Should we bother w/SST?
 4. Seascape class and prob (MODA,VSNPP) - From JT FTP
 5. Other - SS w/MODA w/only NFLH changed?
 
-Questions for Joaquin:
-1. Time step: MO (coverage is better - can use 8D as a test case in an area of interest)
-2. L3 files from OBPG are the ones to use - yes?
-3. Updates of other files to end of 2023 - files will go on ftp?
-4. Analyses to run? - Should we look at MODA SS w/only NFLH changed?
-5. Use of JPSS? - Meaned w/SNPP? - Yes, but doesn't make a huge difference. 
+
