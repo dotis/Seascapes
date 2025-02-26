@@ -11,9 +11,19 @@
 
 At each one:
 1. For OC inputs: time series, differences
-2. For SS: F-stats, time series?
-3. Questions: Need code for area plots and fstats (MTK)
-4. For Chl and adg443 only can compare MODA, JPSS1, JPSS2, SNPP
+2. For Rrs: time series, differences
+3. For SS: F-stats, time series?
+4. Questions: Need code for area plots and fstats (MTK)
+5. For Chl and adg443 only can compare MODA, JPSS1, JPSS2, SNPP
+
+### Tasks
+1. Overall map of regions
+2. Plots of input products and Rrs (publication quality) in MBON regions
+3. Plots of SS outputs and differences
+4. F-stats? Need code from John Woodill
+
+
+
 
 Other comparisons?:
 1. Ribbon plots? Dominance in a region (or area covered) - 
@@ -39,7 +49,7 @@ Is Joaquin using a per-pixel slope?  - Over what region?
 One plot of SST comparisons (test region) - should be the same.
 Should we bother w/SST?
 
-### Input products needed from Joaqui
+### Input products needed from Joaquin
  - Get all from Joaquin via ftp if possible (monthly, 5-km?)
 1. Chl-a (MODA, VSNPP) - From NASA
 2. adg(443) (MODA,VSNPP) - From NASA
