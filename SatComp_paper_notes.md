@@ -61,6 +61,15 @@ Should we bother w/SST?
 ### Update 2/5/26
 Work on comparison code w/present files then update when non-NRT files are ready (1/1/2012 - 12/31/25)
 
-
+#### Early 2026 Tasks:
+1. Extract MODA, VIIRS and PACE for Chl, Kd_490(?), adg443 and Rrs
+2. Compare - look at different "flavors" of PACE (which bands to extract? How to summarize?)
+3. Develop metrics to assess intersensor comparisons
+4. Plots (make pub worthy)
+5. Update raw files w/non-NRT data
+6. Lit. review w/Scite_ or Elicit
+7. Write!
+8. Updated S3 FLH from Joaquin 
+9. 
 
 
